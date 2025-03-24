@@ -16,3 +16,6 @@ You can Download Shafran from source or Realise
 
 Problem:
 - Freeze after work =( but you will have .zip for Bloodhound
+
+
+ShaRphic_patch.exe - must be more Invisible for AV/EDR
