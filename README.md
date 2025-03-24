@@ -17,7 +17,7 @@ Problem:
 
     Freezes after execution , but you will still get a .zip file for BloodHound.
 
-#ShaRphic_patch
+# ShaRphic_patch
 
 ShaRphic_patch.exe should be more stealthy against AV/EDR. - "maldev func of syscall doesn't work silently, so i try NtQueueApcThreadEx syscall for bypass ntdll.dll"
 
