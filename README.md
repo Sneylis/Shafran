@@ -1,21 +1,20 @@
 # Shafran
 
-Make for Secware <3
+Made for Secware <3
 
-sharphound 2.6.0
-running command `Sharphound.exe -c All` so gonna work in BloodHound 5.0.0 (CE version)
+SharpHound 2.6.0
+Running command Sharphound.exe -c All, so it should work with BloodHound 5.0.0 (CE version).
 
 Encoding SharpHound:
-- AES -> Base64
 
-Run as Shellcode with MalDev golang library
+    AES → Base64
 
+Executed as shellcode using the MalDev Golang library.
 
-You can Download Shafran from source or Realise
-
+You can download Shafran from the source or release.
 
 Problem:
-- Freeze after work =( but you will have .zip for Bloodhound
 
+    Freezes after execution , but you will still get a .zip file for BloodHound.
 
-ShaRphic_patch.exe - must be more Invisible for AV/EDR
+ShaRphic_patch.exe should be more stealthy against AV/EDR.
